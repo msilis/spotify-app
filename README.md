@@ -1,4 +1,4 @@
-# spotify-app
+# Spotify App
 
 This was a project in the [Codecademy](http://www.codecademy.com) Front-end Developer track. This uses React to build an app that talks to the Spotify API and creates new playlists in a user's account from searches done in the app. 
 
