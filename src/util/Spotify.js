@@ -1,7 +1,7 @@
 import SearchBar from "../Components/SearchBar/SearchBar";
 
 let userAccessToken;
-const clientId = <Spotify Access Token Goes here>;
+const clientId = "Spotify Access Token Goes here";
 const redirectUri = "http://localhost:3000/";
 const redirectUrl = `https://accounts.spotify.com/authorize?client_id=${clientId}&response_type=token&scope=playlist-modify-public&redirect_uri=${redirectUri}`;
 
